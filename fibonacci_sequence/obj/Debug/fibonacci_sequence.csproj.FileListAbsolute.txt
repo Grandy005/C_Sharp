@@ -1,0 +1,8 @@
+C:\Users\Attila\source\repos\fibonacci_sequence\fibonacci_sequence\bin\Debug\fibonacci_sequence.exe.config
+C:\Users\Attila\source\repos\fibonacci_sequence\fibonacci_sequence\bin\Debug\fibonacci_sequence.exe
+C:\Users\Attila\source\repos\fibonacci_sequence\fibonacci_sequence\bin\Debug\fibonacci_sequence.pdb
+C:\Users\Attila\source\repos\fibonacci_sequence\fibonacci_sequence\obj\Debug\fibonacci_sequence.csproj.AssemblyReference.cache
+C:\Users\Attila\source\repos\fibonacci_sequence\fibonacci_sequence\obj\Debug\fibonacci_sequence.csproj.SuggestedBindingRedirects.cache
+C:\Users\Attila\source\repos\fibonacci_sequence\fibonacci_sequence\obj\Debug\fibonacci_sequence.csproj.CoreCompileInputs.cache
+C:\Users\Attila\source\repos\fibonacci_sequence\fibonacci_sequence\obj\Debug\fibonacci_sequence.exe
+C:\Users\Attila\source\repos\fibonacci_sequence\fibonacci_sequence\obj\Debug\fibonacci_sequence.pdb
