@@ -1,0 +1,15 @@
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/bin/Debug/net7.0/roman_numbers
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/bin/Debug/net7.0/roman_numbers.deps.json
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/bin/Debug/net7.0/roman_numbers.runtimeconfig.json
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/bin/Debug/net7.0/roman_numbers.dll
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/bin/Debug/net7.0/roman_numbers.pdb
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/obj/Debug/net7.0/roman_numbers.csproj.AssemblyReference.cache
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/obj/Debug/net7.0/roman_numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/obj/Debug/net7.0/roman_numbers.AssemblyInfoInputs.cache
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/obj/Debug/net7.0/roman_numbers.AssemblyInfo.cs
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/obj/Debug/net7.0/roman_numbers.csproj.CoreCompileInputs.cache
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/obj/Debug/net7.0/roman_numbers.dll
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/obj/Debug/net7.0/refint/roman_numbers.dll
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/obj/Debug/net7.0/roman_numbers.pdb
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/obj/Debug/net7.0/roman_numbers.genruntimeconfig.cache
+/Users/attilaagoston/Desktop/C#/roman_numbers/roman_numbers/obj/Debug/net7.0/ref/roman_numbers.dll
