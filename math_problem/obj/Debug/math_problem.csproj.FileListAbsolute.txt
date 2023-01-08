@@ -1,8 +1,0 @@
-C:\Users\Attila\source\repos\math_problem\math_problem\bin\Debug\math_problem.exe.config
-C:\Users\Attila\source\repos\math_problem\math_problem\bin\Debug\math_problem.exe
-C:\Users\Attila\source\repos\math_problem\math_problem\bin\Debug\math_problem.pdb
-C:\Users\Attila\source\repos\math_problem\math_problem\obj\Debug\math_problem.csproj.AssemblyReference.cache
-C:\Users\Attila\source\repos\math_problem\math_problem\obj\Debug\math_problem.csproj.SuggestedBindingRedirects.cache
-C:\Users\Attila\source\repos\math_problem\math_problem\obj\Debug\math_problem.csproj.CoreCompileInputs.cache
-C:\Users\Attila\source\repos\math_problem\math_problem\obj\Debug\math_problem.exe
-C:\Users\Attila\source\repos\math_problem\math_problem\obj\Debug\math_problem.pdb
